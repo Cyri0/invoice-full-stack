@@ -2,7 +2,7 @@
 
 `python -m venv invoice_venv`
 
-`cd invoice venv`
+`cd invoice_venv`
 
 `Scripts\activate`
 
@@ -10,4 +10,4 @@
 
 `cd invoice-full-stack`
 
-`pip install -r requrements.txt`
+`pip install -r requirements.txt`
