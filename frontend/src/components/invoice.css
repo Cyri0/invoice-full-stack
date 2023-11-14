@@ -1,0 +1,25 @@
+.invoice{
+    background-color: darkslategray;
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.status0{
+    color: lightgray;
+}
+
+.status1{
+    color: orange;
+}
+
+.status2{
+    color: greenyellow;
+}
+
+.status{
+    font-weight: bold;
+}
